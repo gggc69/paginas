@@ -1,3 +1,7 @@
+
+/*
+Programa uno de java script
+/*
 function suma(n1, n2)
 {
 result = n1 + n2;
